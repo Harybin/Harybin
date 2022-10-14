@@ -1,4 +1,4 @@
-Hello)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y8gG4oF70umgT9Y377/giphy.gif" width="100"/>
 </div>
@@ -24,9 +24,9 @@ Hello)
 <div align="center">
   <img src="https://media.giphy.com/media/f4TjiCpNemSo8/giphy.gif" width="600" height="300"/>
 </div>
- :stuck_out_tongue_winking_eye: About Me :
+ :stuck_out_tongue_winking_eye: Обо мне :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
 
 - :euro: Капиталист
 
@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :computer: Программист
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -46,11 +46,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harybin&theme=blood-dark&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harybin)](https://github.com/Harybin/github-readme-stats)
-  ### 🤡Jokes for 300 :
+  ### 🤡Шутки за 300:
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 ф
