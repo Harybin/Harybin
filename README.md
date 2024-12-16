@@ -1,56 +1,60 @@
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y8gG4oF70umgT9Y377/giphy.gif" width="100"/>
+  <h1>Hi, I'm Artem Harybin 👋</h1>
+  <h3>Python Developer | FastAPI Enthusiast | Backend Learner</h3>
 </div>
-<div id="badges">
-<div id="badges" align="center">
-  <a href="https://vk.com/kharybin0">
-    <img src="https://img.shields.io/badge/-VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-  </a>
-  <a href="https://t.me/harybinartem">
-    <img src="https://img.shields.io/badge/-Telegram-blue?logo=Tekegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-</div>
-<div id="[viewprof](https://komarev.com/ghpvc/?username= Harybin )" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harybin&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div id="heythere" align="center">
-  <h1>
-  Здарова Мужик
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/f4TjiCpNemSo8/giphy.gif" width="600" height="300"/>
-</div>
- :stuck_out_tongue_winking_eye: Обо мне :
-
-Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
-
-- :euro: Капиталист
-
-- :briefcase: Продюсер
-
-- :computer: Программист
 
 ---
-### :hammer_and_wrench: Языки и инструменты :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+### 🌟 **About Me**
 
-### :fire: Моя статистика :
+- 💻 **Aspiring Backend Developer** focused on building clean and efficient APIs.  
+- 🚀 Currently learning **FastAPI** and improving my Python skills.  
+- 🛠 Created a simple **To-Do List** application as my first project.  
+- 📚 Open to new opportunities and continuous learning in backend development.  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harybin&theme=blood-dark&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harybin)](https://github.com/Harybin/github-readme-stats)
-  ### 🤡Шутки за 300:
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-ф
+---
+
+### ⚙️ **Technical Skills**
+
+**Programming Languages**:  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+
+**Frameworks**:  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)  
+
+**Databases**:  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)  
+
+**Tools**:  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)  
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)  
+
+---
+
+### 🚀 **Projects**
+
+| **Project Name**    | **Description**                                  | **Tech Stack**        |
+|----------------------|-------------------------------------------------|-----------------------|
+| **To-Do List App**   | A simple To-Do List with CRUD operations.       | SQLite, Python        |
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Harybin&theme=default" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harybin&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 🤝 **Connect with Me**
+
+<p align="center">
+  <a href="https://vk.com/kharybin0"><img src="https://img.shields.io/badge/-VK-blue?logo=VK&logoColor=white&style=flat-square" alt="VK Badge"/></a>
+  <a href="https://t.me/harybinartem"><img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&logoColor=white&style=flat-square" alt="Telegram Badge"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email Badge"/></a>
+</p>
+
