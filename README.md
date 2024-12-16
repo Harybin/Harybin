@@ -3,6 +3,10 @@
   <h3>Python Developer | FastAPI Enthusiast | Backend Learner</h3>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Chill Guy"/>
+</div>
+
 ---
 
 ### 🌟 **About Me**
@@ -57,4 +61,3 @@
   <a href="https://t.me/harybinartem"><img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&logoColor=white&style=flat-square" alt="Telegram Badge"/></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email Badge"/></a>
 </p>
-
